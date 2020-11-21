@@ -1,6 +1,7 @@
 <script>
     import { Router, Link, Route } from "svelte-routing";
     import Home from './views/home.svelte';
+    import Advanced from './views/advanced.svelte';
 
     let url = '';
 </script>
@@ -8,10 +9,14 @@
 <Router url="{url}">
     <nav>
         <Link to="/">Home</Link>
+        <Link to="/advanced">Advanced</Link>
     </nav>
     <div class="routes">
         <Route path="/">
             <Home />
+        </Route>
+        <Route path="/advanced">
+            <Advanced />
         </Route>
     </div>
 </Router>

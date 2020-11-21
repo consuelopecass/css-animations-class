@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="71ee7f38-0e41-4698-86e8-4dca74054267" name="Default Changelist" comment="" />
+    <list default="true" id="71ee7f38-0e41-4698-86e8-4dca74054267" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/views/advanced.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kZ09sQgzLp0U57JC6JiK6SDBuZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,33 +70,53 @@
       <option name="presentableId" value="Default" />
       <updated>1605892660417</updated>
       <workItem from="1605892661929" duration="3457000" />
+<<<<<<< Updated upstream
       <workItem from="1605900232463" duration="5278000" />
+=======
+      <workItem from="1605900232463" duration="5386000" />
+      <workItem from="1605972717436" duration="747000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="184" y="93" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605892958641">
       <screen x="0" y="25" width="1440" height="819" />
     </state>
     <state x="184" y="93" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.819@0.25.1440.819" timestamp="1605892958641" />
-    <state width="562" height="115" key="GridCell.Tab.0.bottom" timestamp="1605903159476">
+    <state width="562" height="115" key="GridCell.Tab.0.bottom" timestamp="1605971777274">
       <screen x="0" y="25" width="1440" height="819" />
     </state>
-    <state width="562" height="115" key="GridCell.Tab.0.bottom/0.25.1440.819@0.25.1440.819" timestamp="1605903159476" />
-    <state width="562" height="115" key="GridCell.Tab.0.center" timestamp="1605903159476">
+    <state width="562" height="115" key="GridCell.Tab.0.bottom/0.25.1440.819@0.25.1440.819" timestamp="1605971777274" />
+    <state width="562" height="115" key="GridCell.Tab.0.center" timestamp="1605971777273">
       <screen x="0" y="25" width="1440" height="819" />
     </state>
-    <state width="562" height="115" key="GridCell.Tab.0.center/0.25.1440.819@0.25.1440.819" timestamp="1605903159476" />
-    <state width="562" height="115" key="GridCell.Tab.0.left" timestamp="1605903159475">
+    <state width="562" height="115" key="GridCell.Tab.0.center/0.25.1440.819@0.25.1440.819" timestamp="1605971777273" />
+    <state width="562" height="115" key="GridCell.Tab.0.left" timestamp="1605971777273">
       <screen x="0" y="25" width="1440" height="819" />
     </state>
-    <state width="562" height="115" key="GridCell.Tab.0.left/0.25.1440.819@0.25.1440.819" timestamp="1605903159475" />
-    <state width="562" height="115" key="GridCell.Tab.0.right" timestamp="1605903159476">
+    <state width="562" height="115" key="GridCell.Tab.0.left/0.25.1440.819@0.25.1440.819" timestamp="1605971777273" />
+    <state width="562" height="115" key="GridCell.Tab.0.right" timestamp="1605971777274">
       <screen x="0" y="25" width="1440" height="819" />
     </state>
-    <state width="562" height="115" key="GridCell.Tab.0.right/0.25.1440.819@0.25.1440.819" timestamp="1605903159476" />
+    <state width="562" height="115" key="GridCell.Tab.0.right/0.25.1440.819@0.25.1440.819" timestamp="1605971777274" />
+    <state x="385" y="168" width="670" height="676" key="search.everywhere.popup" timestamp="1605971761363">
+      <screen x="0" y="25" width="1440" height="819" />
+    </state>
+    <state x="385" y="168" width="670" height="676" key="search.everywhere.popup/0.25.1440.819@0.25.1440.819" timestamp="1605971761363" />
   </component>
 </project>
